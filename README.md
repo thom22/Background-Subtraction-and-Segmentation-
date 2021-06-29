@@ -1,4 +1,4 @@
-# Background-Subtraction-and-Segmentation-
+# Background-Subtraction-and-Foreground-Segmentation-
 
 
 
