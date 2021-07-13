@@ -12,7 +12,6 @@
 
 ### Infrared thermal (IR) images foreground segementation Result
 
-![image](https://user-images.githubusercontent.com/55071205/125416491-56c75173-09a0-45c9-87f9-a50425ff043e.png)
 ![image](https://user-images.githubusercontent.com/55071205/125415947-5d2a00a6-5cdf-4e66-8ccf-16360fdd5ac6.png)
 ![image](https://user-images.githubusercontent.com/55071205/125415980-ecfdf905-8281-4264-b88e-f5eda063efcc.png)
 ![image](https://user-images.githubusercontent.com/55071205/125416031-c2f645ae-88f6-4b62-badf-8d013f149dc6.png)
