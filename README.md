@@ -1,6 +1,6 @@
 # Background-Subtraction-and-Foreground-Segmentation-
 
-
+## Result Demonistration of the foreground and background segementation
 
 ![download (4)](https://user-images.githubusercontent.com/55071205/123752164-854cfd80-d8f3-11eb-891b-378d7d29c7c7.png)
 ![download (6)](https://user-images.githubusercontent.com/55071205/123752393-b3324200-d8f3-11eb-8f3b-4e5149ee4007.png)
