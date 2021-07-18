@@ -1,4 +1,4 @@
-# Background-Subtraction-and-Foreground-Segmentation-
+# Foreground-Segmentation-and-Background-Subtraction
 
 ## Demonistration of the background and foreground segementation
 
