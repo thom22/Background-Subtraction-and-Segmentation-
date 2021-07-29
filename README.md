@@ -1,6 +1,6 @@
 # Foreground-Segmentation-and-Background-Subtraction
 
-## Demonistration of the background and foreground segementation
+## Demonistration of the background and foreground segementation Result
 
 ### RGB images foreground segementation result
 
